@@ -9,16 +9,3 @@ Currently, two official plugins are available:
 
 
 
-
-
-# git
-https://github.com/vaishnavik94/venus_tech.git
-# or create a new repository on the command line
-
-echo "# venus_tech" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/vaishnavik94/venus_tech.git
-git push -u origin main
