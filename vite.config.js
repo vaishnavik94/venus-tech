@@ -8,5 +8,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()],
-  base: "/venus_tech",
+  base: "/venus-tech",
 })
